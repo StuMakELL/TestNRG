@@ -32,7 +32,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
+#define NUM_OF_RND_VALUES (10)
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -93,6 +93,12 @@ UART_HandleTypeDef huart1;
 UART_HandleTypeDef huart3;
 
 /* USER CODE BEGIN PV */
+
+/// @brief Stores the last 10 random values
+static uint32_t rndValues[NUM_OF_RND_VALUES];
+
+/// @brief Index counter within 'rndValues' array
+static uint32_t rndCount = 0;
 
 /* USER CODE END PV */
 
@@ -189,6 +195,9 @@ int main(void)
     /* USER CODE BEGIN WHILE */
     while (1)
     {
+        HAL_RNG_GenerateRandomNumber(&hrng, &rndValues[rndCount]);
+        rndCount++;
+        rndCount %= NUM_OF_RND_VALUES;
         /* USER CODE END WHILE */
 
         /* USER CODE BEGIN 3 */
