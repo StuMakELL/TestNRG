@@ -518,7 +518,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
  .debug_macro   0x00000000      0x5e6 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_macro   0x00000000      0x6c2 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_macro   0x00000000      0x6c3 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
@@ -707,7 +707,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x693 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .debug_macro   0x00000000       0xa6 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .debug_macro   0x00000000      0x5e6 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_macro   0x00000000      0x6c2 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_macro   0x00000000      0x6c3 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .group         0x00000000        0xc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
@@ -6662,8 +6662,6 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_MspDeInit
                 0x00000000       0x14 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .text.HAL_RNG_GenerateRandomNumber
-                0x00000000       0xee CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_GenerateRandomNumber_IT
                 0x00000000       0x5e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_IRQHandler
@@ -6672,14 +6670,10 @@ Discarded input sections
                 0x00000000       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_ReadyDataCallback
                 0x00000000       0x16 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .text.HAL_RNG_ErrorCallback
-                0x00000000       0x14 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_GetState
                 0x00000000       0x1a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .text.HAL_RNG_GetError
                 0x00000000       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .text.RNG_RecoverSeedError
-                0x00000000      0x102 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .debug_macro   0x00000000      0xacc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .debug_macro   0x00000000      0x26e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
@@ -9507,7 +9501,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x103 CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
  .debug_macro   0x00000000       0x6a CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
  .debug_macro   0x00000000      0x1df CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00000000      0x320 CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x31e CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
  .debug_str     0x00000000     0x5b62 CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
  .comment       0x00000000       0x44 CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
  .debug_frame   0x00000000       0x34 CMakeFiles/TestNRG.dir/Core/Src/sysmem.c.obj
@@ -9771,7 +9765,7 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
                 0x08000000                g_pfnVectors
                 0x080002cc                        . = ALIGN (0x4)
 
-.text           0x080002cc     0xea4c
+.text           0x080002cc     0xec98
                 0x080002cc                        . = ALIGN (0x4)
  *(.text)
  .text          0x080002cc       0x40 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
@@ -9788,753 +9782,762 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
  .text.__libc_init_array
                 0x0800060c       0x48 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-init.o)
                 0x0800060c                __libc_init_array
- .text.main     0x08000654       0x68 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .text.main     0x08000654       0xb0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
                 0x08000654                main
  .text.SystemClock_Config
-                0x080006bc       0xe0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
-                0x080006bc                SystemClock_Config
+                0x08000704       0xe0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000704                SystemClock_Config
  .text.PeriphCommonClock_Config
-                0x0800079c       0x5e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
-                0x0800079c                PeriphCommonClock_Config
- *fill*         0x080007fa        0x2 
+                0x080007e4       0x5e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x080007e4                PeriphCommonClock_Config
+ *fill*         0x08000842        0x2 
  .text.MX_ADC1_Init
-                0x080007fc       0xf0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000844       0xf0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_ADC2_Init
-                0x080008ec       0xc4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000934       0xc4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_ADC3_Init
-                0x080009b0       0xe4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x080009f8       0xe4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_DAC1_Init
-                0x08000a94       0x64 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000adc       0x64 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_ETH_Init
-                0x08000af8       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000b40       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_FDCAN1_Init
-                0x08000b90       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000bd8       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_FDCAN2_Init
-                0x08000c58       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000ca0       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_I2C4_Init
-                0x08000d20       0x80 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000d68       0x80 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_LTDC_Init
-                0x08000da0      0x164 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000de8      0x164 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_OCTOSPI1_Init
-                0x08000f04       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08000f4c       0xc8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_OCTOSPI2_Init
-                0x08000fcc      0x104 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001014      0x104 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_RNG_Init
-                0x080010d0       0x2c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001118       0x2c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_SAI1_Init
-                0x080010fc      0x17c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001144      0x17c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_SDMMC1_SD_Init
-                0x08001278       0x48 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x080012c0       0x48 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_TIM1_Init
-                0x080012c0      0x11c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001308      0x11c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_TIM4_Init
-                0x080013dc       0xe0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001424       0xe0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_TIM5_Init
-                0x080014bc       0xb4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001504       0xb4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_USART1_UART_Init
-                0x08001570       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x080015b8       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_USART3_UART_Init
-                0x08001608       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001650       0x98 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.MX_USB_OTG_HS_USB_Init
-                0x080016a0        0xe CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- *fill*         0x080016ae        0x2 
+                0x080016e8        0xe CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ *fill*         0x080016f6        0x2 
  .text.MX_GPIO_Init
-                0x080016b0      0x350 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x080016f8      0x350 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .text.Error_Handler
-                0x08001a00        0xc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
-                0x08001a00                Error_Handler
+                0x08001a48        0xc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x08001a48                Error_Handler
  .text.NMI_Handler
-                0x08001a0c        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a0c                NMI_Handler
+                0x08001a54        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a54                NMI_Handler
  .text.HardFault_Handler
-                0x08001a14        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a14                HardFault_Handler
+                0x08001a5c        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a5c                HardFault_Handler
  .text.MemManage_Handler
-                0x08001a1c        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a1c                MemManage_Handler
+                0x08001a64        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a64                MemManage_Handler
  .text.BusFault_Handler
-                0x08001a24        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a24                BusFault_Handler
+                0x08001a6c        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a6c                BusFault_Handler
  .text.UsageFault_Handler
-                0x08001a2c        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a2c                UsageFault_Handler
+                0x08001a74        0x8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a74                UsageFault_Handler
  .text.SVC_Handler
-                0x08001a34        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a34                SVC_Handler
+                0x08001a7c        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a7c                SVC_Handler
  .text.DebugMon_Handler
-                0x08001a42        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a42                DebugMon_Handler
+                0x08001a8a        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a8a                DebugMon_Handler
  .text.PendSV_Handler
-                0x08001a50        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a50                PendSV_Handler
+                0x08001a98        0xe CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001a98                PendSV_Handler
  .text.SysTick_Handler
-                0x08001a5e        0xc CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
-                0x08001a5e                SysTick_Handler
- *fill*         0x08001a6a        0x2 
+                0x08001aa6        0xc CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x08001aa6                SysTick_Handler
+ *fill*         0x08001ab2        0x2 
  .text.HAL_MspInit
-                0x08001a6c       0x34 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08001a6c                HAL_MspInit
+                0x08001ab4       0x34 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08001ab4                HAL_MspInit
  .text.HAL_ADC_MspInit
-                0x08001aa0      0x1ec CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08001aa0                HAL_ADC_MspInit
+                0x08001ae8      0x1ec CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08001ae8                HAL_ADC_MspInit
  .text.HAL_DAC_MspInit
-                0x08001c8c       0x8c CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08001c8c                HAL_DAC_MspInit
+                0x08001cd4       0x8c CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08001cd4                HAL_DAC_MspInit
  .text.HAL_ETH_MspInit
-                0x08001d18      0x158 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08001d18                HAL_ETH_MspInit
+                0x08001d60      0x158 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08001d60                HAL_ETH_MspInit
  .text.HAL_FDCAN_MspInit
-                0x08001e70      0x1a0 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08001e70                HAL_FDCAN_MspInit
+                0x08001eb8      0x1a0 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08001eb8                HAL_FDCAN_MspInit
  .text.HAL_I2C_MspInit
-                0x08002010       0xd4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002010                HAL_I2C_MspInit
+                0x08002058       0xd4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002058                HAL_I2C_MspInit
  .text.HAL_LTDC_MspInit
-                0x080020e4      0x314 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x080020e4                HAL_LTDC_MspInit
+                0x0800212c      0x314 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x0800212c                HAL_LTDC_MspInit
  .text.HAL_OSPI_MspInit
-                0x080023f8      0x404 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x080023f8                HAL_OSPI_MspInit
+                0x08002440      0x404 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002440                HAL_OSPI_MspInit
  .text.HAL_RNG_MspInit
-                0x080027fc       0x74 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x080027fc                HAL_RNG_MspInit
+                0x08002844       0x74 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002844                HAL_RNG_MspInit
  .text.HAL_SD_MspInit
-                0x08002870      0x11c CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002870                HAL_SD_MspInit
+                0x080028b8      0x11c CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x080028b8                HAL_SD_MspInit
  .text.HAL_TIM_PWM_MspInit
-                0x0800298c       0xa0 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x0800298c                HAL_TIM_PWM_MspInit
+                0x080029d4       0xa0 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x080029d4                HAL_TIM_PWM_MspInit
  .text.HAL_TIM_MspPostInit
-                0x08002a2c      0x160 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002a2c                HAL_TIM_MspPostInit
+                0x08002a74      0x160 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002a74                HAL_TIM_MspPostInit
  .text.HAL_UART_MspInit
-                0x08002b8c      0x174 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002b8c                HAL_UART_MspInit
+                0x08002bd4      0x174 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002bd4                HAL_UART_MspInit
  .text.HAL_SAI_MspInit
-                0x08002d00      0x148 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
-                0x08002d00                HAL_SAI_MspInit
+                0x08002d48      0x148 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x08002d48                HAL_SAI_MspInit
  .text.LL_ADC_SetCommonClock
-                0x08002e48       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002e90       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetCommonPathInternalCh
-                0x08002e6e       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002eb6       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_GetCommonPathInternalCh
-                0x08002e94       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002edc       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetOffset
-                0x08002eb0       0x64 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002ef8       0x64 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_GetOffsetChannel
-                0x08002f14       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002f5c       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetDataRightShift
-                0x08002f40       0x32 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- *fill*         0x08002f72        0x2 
+                0x08002f88       0x32 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ *fill*         0x08002fba        0x2 
  .text.LL_ADC_SetOffsetSignedSaturation
-                0x08002f74       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08002fbc       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetOffsetSaturation
-                0x08002fb8       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003000       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetOffsetSign
-                0x08002ffc       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003044       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetOffsetState
-                0x08003040       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003088       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_REG_SetSequencerRanks
-                0x08003094       0x58 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x080030dc       0x58 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_SetChannelSamplingTime
-                0x080030ec       0x56 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- *fill*         0x08003142        0x2 
+                0x08003134       0x56 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ *fill*         0x0800318a        0x2 
  .text.LL_ADC_SetChannelSingleDiff
-                0x08003144       0x80 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x0800318c       0x80 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_DisableDeepPowerDown
-                0x080031c4       0x24 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x0800320c       0x24 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_IsDeepPowerDownEnabled
-                0x080031e8       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003230       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_EnableInternalRegulator
-                0x08003210       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003258       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_IsInternalRegulatorEnabled
-                0x08003238       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x08003280       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_IsEnabled
-                0x08003260       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x080032a8       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_REG_IsConversionOngoing
-                0x08003286       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x080032ce       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .text.LL_ADC_INJ_IsConversionOngoing
-                0x080032ac       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- *fill*         0x080032d2        0x2 
+                0x080032f4       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ *fill*         0x0800331a        0x2 
  .text.HAL_ADC_Init
-                0x080032d4      0x410 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
-                0x080032d4                HAL_ADC_Init
+                0x0800331c      0x410 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x0800331c                HAL_ADC_Init
  .text.HAL_ADC_ConfigChannel
-                0x080036e4      0xa60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
-                0x080036e4                HAL_ADC_ConfigChannel
+                0x0800372c      0xa60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x0800372c                HAL_ADC_ConfigChannel
  .text.ADC_ConfigureBoostMode
-                0x08004144      0x1dc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
-                0x08004144                ADC_ConfigureBoostMode
+                0x0800418c      0x1dc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x0800418c                ADC_ConfigureBoostMode
  .text.LL_ADC_IsEnabled
-                0x08004320       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+                0x08004368       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
  .text.LL_ADC_REG_IsConversionOngoing
-                0x08004346       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+                0x0800438e       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
  .text.HAL_ADCEx_MultiModeConfigChannel
-                0x0800436c      0x1c4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
-                0x0800436c                HAL_ADCEx_MultiModeConfigChannel
+                0x080043b4      0x1c4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+                0x080043b4                HAL_ADCEx_MultiModeConfigChannel
  .text.HAL_RCC_OscConfig
-                0x08004530      0x7b4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08004530                HAL_RCC_OscConfig
+                0x08004578      0x7b4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08004578                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x08004ce4      0x36c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08004ce4                HAL_RCC_ClockConfig
+                0x08004d2c      0x36c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08004d2c                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08005050      0x2f4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08005050                HAL_RCC_GetSysClockFreq
+                0x08005098      0x2f4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08005098                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08005344       0x60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x08005344                HAL_RCC_GetHCLKFreq
+                0x0800538c       0x60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x0800538c                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x080053a4       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x080053a4                HAL_RCC_GetPCLK1Freq
+                0x080053ec       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x080053ec                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x080053d0       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
-                0x080053d0                HAL_RCC_GetPCLK2Freq
+                0x08005418       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x08005418                HAL_RCC_GetPCLK2Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x080053fc     0x1340 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x080053fc                HAL_RCCEx_PeriphCLKConfig
+                0x08005444     0x1340 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08005444                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_RCCEx_GetPeriphCLKFreq
-                0x0800673c      0x9a4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x0800673c                HAL_RCCEx_GetPeriphCLKFreq
+                0x08006784      0x9a4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08006784                HAL_RCCEx_GetPeriphCLKFreq
  .text.HAL_RCCEx_GetD3PCLK1Freq
-                0x080070e0       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x080070e0                HAL_RCCEx_GetD3PCLK1Freq
+                0x08007128       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08007128                HAL_RCCEx_GetD3PCLK1Freq
  .text.HAL_RCCEx_GetPLL2ClockFreq
-                0x0800710c      0x2a8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x0800710c                HAL_RCCEx_GetPLL2ClockFreq
+                0x08007154      0x2a8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08007154                HAL_RCCEx_GetPLL2ClockFreq
  .text.HAL_RCCEx_GetPLL3ClockFreq
-                0x080073b4      0x2a8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x080073b4                HAL_RCCEx_GetPLL3ClockFreq
+                0x080073fc      0x2a8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x080073fc                HAL_RCCEx_GetPLL3ClockFreq
  .text.HAL_RCCEx_GetPLL1ClockFreq
-                0x0800765c      0x2a4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
-                0x0800765c                HAL_RCCEx_GetPLL1ClockFreq
+                0x080076a4      0x2a4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x080076a4                HAL_RCCEx_GetPLL1ClockFreq
  .text.RCCEx_PLL2_Config
-                0x08007900      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08007948      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .text.RCCEx_PLL3_Config
-                0x08007a64      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x08007aac      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .text.HAL_GPIO_Init
-                0x08007bc8      0x350 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
-                0x08007bc8                HAL_GPIO_Init
+                0x08007c10      0x350 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x08007c10                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08007f18       0x32 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
-                0x08007f18                HAL_GPIO_WritePin
- *fill*         0x08007f4a        0x2 
+                0x08007f60       0x32 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x08007f60                HAL_GPIO_WritePin
+ *fill*         0x08007f92        0x2 
  .text.HAL_PWREx_ConfigSupply
-                0x08007f4c       0xb4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
-                0x08007f4c                HAL_PWREx_ConfigSupply
+                0x08007f94       0xb4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x08007f94                HAL_PWREx_ConfigSupply
  .text.__NVIC_SetPriorityGrouping
-                0x08008000       0x48 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08008048       0x48 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x08008048       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08008090       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08008064       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080080ac       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x080080b8       0x66 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- *fill*         0x0800811e        0x2 
+                0x08008100       0x66 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ *fill*         0x08008166        0x2 
  .text.SysTick_Config
-                0x08008120       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x08008168       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08008164       0x16 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x08008164                HAL_NVIC_SetPriorityGrouping
+                0x080081ac       0x16 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080081ac                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x0800817a       0x34 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x0800817a                HAL_NVIC_SetPriority
+                0x080081c2       0x34 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080081c2                HAL_NVIC_SetPriority
  .text.HAL_SYSTICK_Config
-                0x080081ae       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
-                0x080081ae                HAL_SYSTICK_Config
- *fill*         0x080081c6        0x2 
+                0x080081f6       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x080081f6                HAL_SYSTICK_Config
+ *fill*         0x0800820e        0x2 
  .text.HAL_Init
-                0x080081c8       0x78 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x080081c8                HAL_Init
+                0x08008210       0x78 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08008210                HAL_Init
  .text.HAL_InitTick
-                0x08008240       0x6c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08008240                HAL_InitTick
+                0x08008288       0x6c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08008288                HAL_InitTick
  .text.HAL_IncTick
-                0x080082ac       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x080082ac                HAL_IncTick
+                0x080082f4       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x080082f4                HAL_IncTick
  .text.HAL_GetTick
-                0x080082d4       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x080082d4                HAL_GetTick
+                0x0800831c       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0800831c                HAL_GetTick
  .text.HAL_Delay
-                0x080082ec       0x48 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x080082ec                HAL_Delay
+                0x08008334       0x48 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x08008334                HAL_Delay
  .text.HAL_SYSCFG_ETHInterfaceSelect
-                0x08008334       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x08008334                HAL_SYSCFG_ETHInterfaceSelect
+                0x0800837c       0x28 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0800837c                HAL_SYSCFG_ETHInterfaceSelect
  .text.HAL_SYSCFG_AnalogSwitchConfig
-                0x0800835c       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x0800835c                HAL_SYSCFG_AnalogSwitchConfig
+                0x080083a4       0x2c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x080083a4                HAL_SYSCFG_AnalogSwitchConfig
  .text.HAL_I2C_Init
-                0x08008388      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
-                0x08008388                HAL_I2C_Init
+                0x080083d0      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x080083d0                HAL_I2C_Init
  .text.HAL_I2CEx_ConfigAnalogFilter
-                0x080084c0       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
-                0x080084c0                HAL_I2CEx_ConfigAnalogFilter
+                0x08008508       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x08008508                HAL_I2CEx_ConfigAnalogFilter
  .text.HAL_I2CEx_ConfigDigitalFilter
-                0x08008556       0x98 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
-                0x08008556                HAL_I2CEx_ConfigDigitalFilter
+                0x0800859e       0x98 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x0800859e                HAL_I2CEx_ConfigDigitalFilter
  .text.HAL_DAC_Init
-                0x080085ee       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
-                0x080085ee                HAL_DAC_Init
- *fill*         0x08008632        0x2 
+                0x08008636       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+                0x08008636                HAL_DAC_Init
+ *fill*         0x0800867a        0x2 
  .text.HAL_DAC_ConfigChannel
-                0x08008634      0x284 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
-                0x08008634                HAL_DAC_ConfigChannel
+                0x0800867c      0x284 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+                0x0800867c                HAL_DAC_ConfigChannel
  .text.HAL_ETH_Init
-                0x080088b8      0x1fc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
-                0x080088b8                HAL_ETH_Init
+                0x08008900      0x1fc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x08008900                HAL_ETH_Init
  .text.HAL_ETH_SetMDIOClockRange
-                0x08008ab4       0xa0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
-                0x08008ab4                HAL_ETH_SetMDIOClockRange
+                0x08008afc       0xa0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x08008afc                HAL_ETH_SetMDIOClockRange
  .text.ETH_SetMACConfig
-                0x08008b54      0x238 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x08008b9c      0x238 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
  .text.ETH_SetDMAConfig
-                0x08008d8c      0x10c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x08008dd4      0x10c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
  .text.ETH_MACDMAConfig
-                0x08008e98      0x13a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x08008ee0      0x13a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
  .text.ETH_DMATxDescListInit
-                0x08008fd2       0x92 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x0800901a       0x92 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
  .text.ETH_DMARxDescListInit
-                0x08009064       0xba CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
- *fill*         0x0800911e        0x2 
+                0x080090ac       0xba CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+ *fill*         0x08009166        0x2 
  .text.HAL_FDCAN_Init
-                0x08009120      0x3bc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
-                0x08009120                HAL_FDCAN_Init
+                0x08009168      0x3bc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+                0x08009168                HAL_FDCAN_Init
  .text.FDCAN_CalcultateRamBlockAddresses
-                0x080094dc      0x30c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+                0x08009524      0x30c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
  .text.HAL_LTDC_Init
-                0x080097e8      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
-                0x080097e8                HAL_LTDC_Init
+                0x08009830      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+                0x08009830                HAL_LTDC_Init
  .text.HAL_LTDC_ConfigLayer
-                0x08009988       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
-                0x08009988                HAL_LTDC_ConfigLayer
+                0x080099d0       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+                0x080099d0                HAL_LTDC_ConfigLayer
  .text.LTDC_SetConfig
-                0x08009a04      0x334 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+                0x08009a4c      0x334 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
  .text.HAL_OSPI_Init
-                0x08009d38      0x178 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
-                0x08009d38                HAL_OSPI_Init
+                0x08009d80      0x178 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x08009d80                HAL_OSPI_Init
  .text.HAL_OSPI_HyperbusCfg
-                0x08009eb0       0x7e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
-                0x08009eb0                HAL_OSPI_HyperbusCfg
+                0x08009ef8       0x7e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x08009ef8                HAL_OSPI_HyperbusCfg
  .text.HAL_OSPI_SetTimeout
-                0x08009f2e       0x1e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
-                0x08009f2e                HAL_OSPI_SetTimeout
+                0x08009f76       0x1e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x08009f76                HAL_OSPI_SetTimeout
  .text.HAL_OSPIM_Config
-                0x08009f4c      0x9d0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
-                0x08009f4c                HAL_OSPIM_Config
+                0x08009f94      0x9d0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x08009f94                HAL_OSPIM_Config
  .text.OSPI_WaitFlagStateUntilTimeout
-                0x0800a91c       0x6e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
- *fill*         0x0800a98a        0x2 
+                0x0800a964       0x6e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+ *fill*         0x0800a9d2        0x2 
  .text.OSPIM_GetConfig
-                0x0800a98c      0x174 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x0800a9d4      0x174 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
  .text.HAL_RNG_Init
-                0x0800ab00      0x148 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
-                0x0800ab00                HAL_RNG_Init
+                0x0800ab48      0x148 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+                0x0800ab48                HAL_RNG_Init
+ .text.HAL_RNG_GenerateRandomNumber
+                0x0800ac90       0xee CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+                0x0800ac90                HAL_RNG_GenerateRandomNumber
+ .text.HAL_RNG_ErrorCallback
+                0x0800ad7e       0x14 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+                0x0800ad7e                HAL_RNG_ErrorCallback
+ .text.RNG_RecoverSeedError
+                0x0800ad92      0x102 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+                0x0800ad92                RNG_RecoverSeedError
  .text.HAL_SAI_Init
-                0x0800ac48      0x434 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
-                0x0800ac48                HAL_SAI_Init
+                0x0800ae94      0x434 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+                0x0800ae94                HAL_SAI_Init
  .text.SAI_Disable
-                0x0800b07c       0x74 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+                0x0800b2c8       0x74 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
  .text.SDMMC_Init
-                0x0800b0f0       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b0f0                SDMMC_Init
+                0x0800b33c       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b33c                SDMMC_Init
  .text.SDMMC_ReadFIFO
-                0x0800b144       0x1a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b144                SDMMC_ReadFIFO
+                0x0800b390       0x1a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b390                SDMMC_ReadFIFO
  .text.SDMMC_PowerState_ON
-                0x0800b15e       0x22 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b15e                SDMMC_PowerState_ON
+                0x0800b3aa       0x22 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b3aa                SDMMC_PowerState_ON
  .text.SDMMC_GetPowerState
-                0x0800b180       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b180                SDMMC_GetPowerState
+                0x0800b3cc       0x1c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b3cc                SDMMC_GetPowerState
  .text.SDMMC_SendCommand
-                0x0800b19c       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b19c                SDMMC_SendCommand
+                0x0800b3e8       0x54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b3e8                SDMMC_SendCommand
  .text.SDMMC_GetCommandResponse
-                0x0800b1f0       0x1a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b1f0                SDMMC_GetCommandResponse
+                0x0800b43c       0x1a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b43c                SDMMC_GetCommandResponse
  .text.SDMMC_GetResponse
-                0x0800b20a       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b20a                SDMMC_GetResponse
+                0x0800b456       0x26 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b456                SDMMC_GetResponse
  .text.SDMMC_ConfigData
-                0x0800b230       0x58 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b230                SDMMC_ConfigData
+                0x0800b47c       0x58 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b47c                SDMMC_ConfigData
  .text.SDMMC_CmdBlockLength
-                0x0800b288       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b288                SDMMC_CmdBlockLength
+                0x0800b4d4       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b4d4                SDMMC_CmdBlockLength
  .text.SDMMC_CmdSelDesel
-                0x0800b2ce       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b2ce                SDMMC_CmdSelDesel
+                0x0800b51a       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b51a                SDMMC_CmdSelDesel
  .text.SDMMC_CmdGoIdleState
-                0x0800b314       0x3c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b314                SDMMC_CmdGoIdleState
+                0x0800b560       0x3c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b560                SDMMC_CmdGoIdleState
  .text.SDMMC_CmdOperCond
-                0x0800b350       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b350                SDMMC_CmdOperCond
+                0x0800b59c       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b59c                SDMMC_CmdOperCond
  .text.SDMMC_CmdAppCommand
-                0x0800b390       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b390                SDMMC_CmdAppCommand
+                0x0800b5dc       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b5dc                SDMMC_CmdAppCommand
  .text.SDMMC_CmdAppOperCommand
-                0x0800b3d6       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b3d6                SDMMC_CmdAppOperCommand
+                0x0800b622       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b622                SDMMC_CmdAppOperCommand
  .text.SDMMC_CmdBusWidth
-                0x0800b416       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b416                SDMMC_CmdBusWidth
+                0x0800b662       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b662                SDMMC_CmdBusWidth
  .text.SDMMC_CmdSendSCR
-                0x0800b45c       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b45c                SDMMC_CmdSendSCR
+                0x0800b6a8       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b6a8                SDMMC_CmdSendSCR
  .text.SDMMC_CmdSendCID
-                0x0800b4a0       0x3e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b4a0                SDMMC_CmdSendCID
+                0x0800b6ec       0x3e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b6ec                SDMMC_CmdSendCID
  .text.SDMMC_CmdSendCSD
-                0x0800b4de       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b4de                SDMMC_CmdSendCSD
+                0x0800b72a       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b72a                SDMMC_CmdSendCSD
  .text.SDMMC_CmdSetRelAdd
-                0x0800b51e       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b51e                SDMMC_CmdSetRelAdd
+                0x0800b76a       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b76a                SDMMC_CmdSetRelAdd
  .text.SDMMC_CmdSendStatus
-                0x0800b562       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b562                SDMMC_CmdSendStatus
+                0x0800b7ae       0x46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b7ae                SDMMC_CmdSendStatus
  .text.SDMMC_CmdStatusRegister
-                0x0800b5a8       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b5a8                SDMMC_CmdStatusRegister
+                0x0800b7f4       0x44 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b7f4                SDMMC_CmdStatusRegister
  .text.SDMMC_GetCmdResp1
-                0x0800b5ec      0x1e4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b5ec                SDMMC_GetCmdResp1
+                0x0800b838      0x1e4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800b838                SDMMC_GetCmdResp1
  .text.SDMMC_GetCmdResp2
-                0x0800b7d0       0x94 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b7d0                SDMMC_GetCmdResp2
+                0x0800ba1c       0x94 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800ba1c                SDMMC_GetCmdResp2
  .text.SDMMC_GetCmdResp3
-                0x0800b864       0x80 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b864                SDMMC_GetCmdResp3
+                0x0800bab0       0x80 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800bab0                SDMMC_GetCmdResp3
  .text.SDMMC_GetCmdResp6
-                0x0800b8e4       0xf0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b8e4                SDMMC_GetCmdResp6
+                0x0800bb30       0xf0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800bb30                SDMMC_GetCmdResp6
  .text.SDMMC_GetCmdResp7
-                0x0800b9d4       0x9c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
-                0x0800b9d4                SDMMC_GetCmdResp7
+                0x0800bc20       0x9c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800bc20                SDMMC_GetCmdResp7
  .text.SDMMC_GetCmdError
-                0x0800ba70       0x5c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0800bcbc       0x5c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
  .text.HAL_SD_Init
-                0x0800bacc      0x106 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800bacc                HAL_SD_Init
- *fill*         0x0800bbd2        0x2 
+                0x0800bd18      0x106 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800bd18                HAL_SD_Init
+ *fill*         0x0800be1e        0x2 
  .text.HAL_SD_InitCard
-                0x0800bbd4      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800bbd4                HAL_SD_InitCard
+                0x0800be20      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800be20                HAL_SD_InitCard
  .text.HAL_SD_GetCardCSD
-                0x0800bd0c      0x348 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800bd0c                HAL_SD_GetCardCSD
+                0x0800bf58      0x348 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800bf58                HAL_SD_GetCardCSD
  .text.HAL_SD_GetCardStatus
-                0x0800c054      0x17c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800c054                HAL_SD_GetCardStatus
+                0x0800c2a0      0x17c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c2a0                HAL_SD_GetCardStatus
  .text.HAL_SD_ConfigWideBusOperation
-                0x0800c1d0      0x224 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800c1d0                HAL_SD_ConfigWideBusOperation
+                0x0800c41c      0x224 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c41c                HAL_SD_ConfigWideBusOperation
  .text.HAL_SD_GetCardState
-                0x0800c3f4       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
-                0x0800c3f4                HAL_SD_GetCardState
+                0x0800c640       0x40 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c640                HAL_SD_GetCardState
  .text.SD_InitCard
-                0x0800c434      0x19c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c680      0x19c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_PowerON
-                0x0800c5d0      0x11c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c81c      0x11c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_SendSDStatus
-                0x0800c6ec      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800c938      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_SendStatus
-                0x0800c88c       0x50 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800cad8       0x50 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_WideBus_Enable
-                0x0800c8dc       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800cb28       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_WideBus_Disable
-                0x0800c972       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800cbbe       0x96 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.SD_FindSCR
-                0x0800ca08      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x0800cc54      0x1a0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .text.HAL_TIM_PWM_Init
-                0x0800cba8       0xae CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
-                0x0800cba8                HAL_TIM_PWM_Init
- *fill*         0x0800cc56        0x2 
+                0x0800cdf4       0xae CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800cdf4                HAL_TIM_PWM_Init
+ *fill*         0x0800cea2        0x2 
  .text.HAL_TIM_PWM_ConfigChannel
-                0x0800cc58      0x228 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
-                0x0800cc58                HAL_TIM_PWM_ConfigChannel
+                0x0800cea4      0x228 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800cea4                HAL_TIM_PWM_ConfigChannel
  .text.TIM_Base_SetConfig
-                0x0800ce80      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
-                0x0800ce80                TIM_Base_SetConfig
+                0x0800d0cc      0x164 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d0cc                TIM_Base_SetConfig
  .text.TIM_OC1_SetConfig
-                0x0800cfe4      0x120 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d230      0x120 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .text.TIM_OC2_SetConfig
-                0x0800d104      0x114 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
-                0x0800d104                TIM_OC2_SetConfig
+                0x0800d350      0x114 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d350                TIM_OC2_SetConfig
  .text.TIM_OC3_SetConfig
-                0x0800d218      0x110 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d464      0x110 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .text.TIM_OC4_SetConfig
-                0x0800d328       0xd4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d574       0xd4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .text.TIM_OC5_SetConfig
-                0x0800d3fc       0xc8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d648       0xc8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .text.TIM_OC6_SetConfig
-                0x0800d4c4       0xcc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x0800d710       0xcc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x0800d590      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
-                0x0800d590                HAL_TIMEx_MasterConfigSynchronization
+                0x0800d7dc      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+                0x0800d7dc                HAL_TIMEx_MasterConfigSynchronization
  .text.HAL_TIMEx_ConfigBreakDeadTime
-                0x0800d6c8      0x118 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
-                0x0800d6c8                HAL_TIMEx_ConfigBreakDeadTime
+                0x0800d914      0x118 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+                0x0800d914                HAL_TIMEx_ConfigBreakDeadTime
  .text.HAL_UART_Init
-                0x0800d7e0       0xa0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800d7e0                HAL_UART_Init
+                0x0800da2c       0xa0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800da2c                HAL_UART_Init
  .text.UART_SetConfig
-                0x0800d880      0xcd8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800d880                UART_SetConfig
+                0x0800dacc      0xcd8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800dacc                UART_SetConfig
  .text.UART_AdvFeatureConfig
-                0x0800e558      0x144 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800e558                UART_AdvFeatureConfig
+                0x0800e7a4      0x144 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800e7a4                UART_AdvFeatureConfig
  .text.UART_CheckIdleState
-                0x0800e69c      0x154 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800e69c                UART_CheckIdleState
+                0x0800e8e8      0x154 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800e8e8                UART_CheckIdleState
  .text.UART_WaitOnFlagUntilTimeout
-                0x0800e7f0       0xda CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800e7f0                UART_WaitOnFlagUntilTimeout
- *fill*         0x0800e8ca        0x2 
+                0x0800ea3c       0xda CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800ea3c                UART_WaitOnFlagUntilTimeout
+ *fill*         0x0800eb16        0x2 
  .text.UART_EndRxTransfer
-                0x0800e8cc       0xcc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800eb18       0xcc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .text.HAL_UARTEx_DisableFifoMode
-                0x0800e998       0x72 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800e998                HAL_UARTEx_DisableFifoMode
+                0x0800ebe4       0x72 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800ebe4                HAL_UARTEx_DisableFifoMode
  .text.HAL_UARTEx_SetTxFifoThreshold
-                0x0800ea0a       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800ea0a                HAL_UARTEx_SetTxFifoThreshold
+                0x0800ec56       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800ec56                HAL_UARTEx_SetTxFifoThreshold
  .text.HAL_UARTEx_SetRxFifoThreshold
-                0x0800ea86       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
-                0x0800ea86                HAL_UARTEx_SetRxFifoThreshold
- *fill*         0x0800eb02        0x2 
+                0x0800ecd2       0x7c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800ecd2                HAL_UARTEx_SetRxFifoThreshold
+ *fill*         0x0800ed4e        0x2 
  .text.UARTEx_SetNbDataToProcess
-                0x0800eb04       0x9c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800ed50       0x9c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .text.SystemInit
-                0x0800eba0       0xf0 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
-                0x0800eba0                SystemInit
+                0x0800edec       0xf0 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0800edec                SystemInit
  .text.Reset_Handler
-                0x0800ec90       0x50 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
-                0x0800ec90                Reset_Handler
+                0x0800eedc       0x50 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+                0x0800eedc                Reset_Handler
  .text.Default_Handler
-                0x0800ece0        0x2 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
-                0x0800ece0                RTC_Alarm_IRQHandler
-                0x0800ece0                HASH_RNG_IRQHandler
-                0x0800ece0                EXTI2_IRQHandler
-                0x0800ece0                TIM8_CC_IRQHandler
-                0x0800ece0                UART8_IRQHandler
-                0x0800ece0                SPI4_IRQHandler
-                0x0800ece0                FDCAN3_IT0_IRQHandler
-                0x0800ece0                TIM1_CC_IRQHandler
-                0x0800ece0                BDMA_Channel6_IRQHandler
-                0x0800ece0                DMA2_Stream5_IRQHandler
-                0x0800ece0                DMA1_Stream5_IRQHandler
-                0x0800ece0                CORDIC_IRQHandler
-                0x0800ece0                BDMA_Channel1_IRQHandler
-                0x0800ece0                TAMP_STAMP_IRQHandler
-                0x0800ece0                EXTI3_IRQHandler
-                0x0800ece0                LPTIM4_IRQHandler
-                0x0800ece0                TIM8_TRG_COM_TIM14_IRQHandler
-                0x0800ece0                LPTIM2_IRQHandler
-                0x0800ece0                DFSDM1_FLT1_IRQHandler
-                0x0800ece0                DMAMUX2_OVR_IRQHandler
-                0x0800ece0                TIM8_UP_TIM13_IRQHandler
-                0x0800ece0                I2C3_ER_IRQHandler
-                0x0800ece0                DFSDM1_FLT2_IRQHandler
-                0x0800ece0                I2C5_EV_IRQHandler
-                0x0800ece0                USART10_IRQHandler
-                0x0800ece0                MDMA_IRQHandler
-                0x0800ece0                LPTIM3_IRQHandler
-                0x0800ece0                HSEM1_IRQHandler
-                0x0800ece0                EXTI0_IRQHandler
-                0x0800ece0                I2C2_EV_IRQHandler
-                0x0800ece0                DMA1_Stream2_IRQHandler
-                0x0800ece0                FPU_IRQHandler
-                0x0800ece0                OTG_HS_WKUP_IRQHandler
-                0x0800ece0                FDCAN1_IT1_IRQHandler
-                0x0800ece0                LTDC_ER_IRQHandler
-                0x0800ece0                DMA2_Stream2_IRQHandler
-                0x0800ece0                SPI1_IRQHandler
-                0x0800ece0                OCTOSPI1_IRQHandler
-                0x0800ece0                TIM6_DAC_IRQHandler
-                0x0800ece0                DMA2_Stream3_IRQHandler
-                0x0800ece0                OCTOSPI2_IRQHandler
-                0x0800ece0                DFSDM1_FLT3_IRQHandler
-                0x0800ece0                TIM23_IRQHandler
-                0x0800ece0                USART6_IRQHandler
-                0x0800ece0                TIM17_IRQHandler
-                0x0800ece0                USART3_IRQHandler
-                0x0800ece0                BDMA_Channel7_IRQHandler
-                0x0800ece0                CRYP_IRQHandler
-                0x0800ece0                LPTIM5_IRQHandler
-                0x0800ece0                UART5_IRQHandler
-                0x0800ece0                ADC3_IRQHandler
-                0x0800ece0                DMA2_Stream0_IRQHandler
-                0x0800ece0                TIM4_IRQHandler
-                0x0800ece0                BDMA_Channel2_IRQHandler
-                0x0800ece0                I2C1_EV_IRQHandler
-                0x0800ece0                DMA1_Stream6_IRQHandler
-                0x0800ece0                DMAMUX1_OVR_IRQHandler
-                0x0800ece0                DMA1_Stream1_IRQHandler
-                0x0800ece0                TIM16_IRQHandler
-                0x0800ece0                UART4_IRQHandler
-                0x0800ece0                BDMA_Channel5_IRQHandler
-                0x0800ece0                TIM3_IRQHandler
-                0x0800ece0                RCC_IRQHandler
-                0x0800ece0                UART9_IRQHandler
-                0x0800ece0                TIM8_BRK_TIM12_IRQHandler
-                0x0800ece0                TIM1_TRG_COM_IRQHandler
-                0x0800ece0                Default_Handler
-                0x0800ece0                ECC_IRQHandler
-                0x0800ece0                FMAC_IRQHandler
-                0x0800ece0                CEC_IRQHandler
-                0x0800ece0                EXTI15_10_IRQHandler
-                0x0800ece0                BDMA_Channel0_IRQHandler
-                0x0800ece0                ADC_IRQHandler
-                0x0800ece0                I2C5_ER_IRQHandler
-                0x0800ece0                OTFDEC1_IRQHandler
-                0x0800ece0                DMA1_Stream7_IRQHandler
-                0x0800ece0                SPI5_IRQHandler
-                0x0800ece0                TIM7_IRQHandler
-                0x0800ece0                FDCAN3_IT1_IRQHandler
-                0x0800ece0                SDMMC1_IRQHandler
-                0x0800ece0                TIM5_IRQHandler
-                0x0800ece0                DMA2_Stream7_IRQHandler
-                0x0800ece0                TIM15_IRQHandler
-                0x0800ece0                PVD_AVD_IRQHandler
-                0x0800ece0                I2C3_EV_IRQHandler
-                0x0800ece0                EXTI9_5_IRQHandler
-                0x0800ece0                RTC_WKUP_IRQHandler
-                0x0800ece0                LTDC_IRQHandler
-                0x0800ece0                ETH_WKUP_IRQHandler
-                0x0800ece0                SPDIF_RX_IRQHandler
-                0x0800ece0                SPI2_IRQHandler
-                0x0800ece0                OTG_HS_EP1_IN_IRQHandler
-                0x0800ece0                DMA1_Stream0_IRQHandler
-                0x0800ece0                OTFDEC2_IRQHandler
-                0x0800ece0                TIM24_IRQHandler
-                0x0800ece0                CRS_IRQHandler
-                0x0800ece0                EXTI4_IRQHandler
-                0x0800ece0                FDCAN2_IT1_IRQHandler
-                0x0800ece0                ETH_IRQHandler
-                0x0800ece0                TIM1_UP_IRQHandler
-                0x0800ece0                BDMA_Channel4_IRQHandler
-                0x0800ece0                OTG_HS_EP1_OUT_IRQHandler
-                0x0800ece0                WWDG_IRQHandler
-                0x0800ece0                SPI6_IRQHandler
-                0x0800ece0                MDIOS_IRQHandler
-                0x0800ece0                I2C4_EV_IRQHandler
-                0x0800ece0                FDCAN2_IT0_IRQHandler
-                0x0800ece0                LPUART1_IRQHandler
-                0x0800ece0                FDCAN1_IT0_IRQHandler
-                0x0800ece0                TIM2_IRQHandler
-                0x0800ece0                OTG_HS_IRQHandler
-                0x0800ece0                DMA2D_IRQHandler
-                0x0800ece0                TIM1_BRK_IRQHandler
-                0x0800ece0                EXTI1_IRQHandler
-                0x0800ece0                SDMMC2_IRQHandler
-                0x0800ece0                BDMA_Channel3_IRQHandler
-                0x0800ece0                DTS_IRQHandler
-                0x0800ece0                UART7_IRQHandler
-                0x0800ece0                MDIOS_WKUP_IRQHandler
-                0x0800ece0                USART2_IRQHandler
-                0x0800ece0                DFSDM1_FLT0_IRQHandler
-                0x0800ece0                SAI4_IRQHandler
-                0x0800ece0                I2C2_ER_IRQHandler
-                0x0800ece0                DMA2_Stream1_IRQHandler
-                0x0800ece0                FLASH_IRQHandler
-                0x0800ece0                DMA2_Stream4_IRQHandler
-                0x0800ece0                USART1_IRQHandler
-                0x0800ece0                SPI3_IRQHandler
-                0x0800ece0                WAKEUP_PIN_IRQHandler
-                0x0800ece0                DMA1_Stream4_IRQHandler
-                0x0800ece0                I2C1_ER_IRQHandler
-                0x0800ece0                FMC_IRQHandler
-                0x0800ece0                FDCAN_CAL_IRQHandler
-                0x0800ece0                SWPMI1_IRQHandler
-                0x0800ece0                COMP1_IRQHandler
-                0x0800ece0                LPTIM1_IRQHandler
-                0x0800ece0                DCMI_PSSI_IRQHandler
-                0x0800ece0                I2C4_ER_IRQHandler
-                0x0800ece0                DMA2_Stream6_IRQHandler
-                0x0800ece0                SAI1_IRQHandler
-                0x0800ece0                DMA1_Stream3_IRQHandler
- .text.memcpy   0x0800ece2       0x1c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
-                0x0800ece2                memcpy
+                0x0800ef2c        0x2 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+                0x0800ef2c                RTC_Alarm_IRQHandler
+                0x0800ef2c                HASH_RNG_IRQHandler
+                0x0800ef2c                EXTI2_IRQHandler
+                0x0800ef2c                TIM8_CC_IRQHandler
+                0x0800ef2c                UART8_IRQHandler
+                0x0800ef2c                SPI4_IRQHandler
+                0x0800ef2c                FDCAN3_IT0_IRQHandler
+                0x0800ef2c                TIM1_CC_IRQHandler
+                0x0800ef2c                BDMA_Channel6_IRQHandler
+                0x0800ef2c                DMA2_Stream5_IRQHandler
+                0x0800ef2c                DMA1_Stream5_IRQHandler
+                0x0800ef2c                CORDIC_IRQHandler
+                0x0800ef2c                BDMA_Channel1_IRQHandler
+                0x0800ef2c                TAMP_STAMP_IRQHandler
+                0x0800ef2c                EXTI3_IRQHandler
+                0x0800ef2c                LPTIM4_IRQHandler
+                0x0800ef2c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0800ef2c                LPTIM2_IRQHandler
+                0x0800ef2c                DFSDM1_FLT1_IRQHandler
+                0x0800ef2c                DMAMUX2_OVR_IRQHandler
+                0x0800ef2c                TIM8_UP_TIM13_IRQHandler
+                0x0800ef2c                I2C3_ER_IRQHandler
+                0x0800ef2c                DFSDM1_FLT2_IRQHandler
+                0x0800ef2c                I2C5_EV_IRQHandler
+                0x0800ef2c                USART10_IRQHandler
+                0x0800ef2c                MDMA_IRQHandler
+                0x0800ef2c                LPTIM3_IRQHandler
+                0x0800ef2c                HSEM1_IRQHandler
+                0x0800ef2c                EXTI0_IRQHandler
+                0x0800ef2c                I2C2_EV_IRQHandler
+                0x0800ef2c                DMA1_Stream2_IRQHandler
+                0x0800ef2c                FPU_IRQHandler
+                0x0800ef2c                OTG_HS_WKUP_IRQHandler
+                0x0800ef2c                FDCAN1_IT1_IRQHandler
+                0x0800ef2c                LTDC_ER_IRQHandler
+                0x0800ef2c                DMA2_Stream2_IRQHandler
+                0x0800ef2c                SPI1_IRQHandler
+                0x0800ef2c                OCTOSPI1_IRQHandler
+                0x0800ef2c                TIM6_DAC_IRQHandler
+                0x0800ef2c                DMA2_Stream3_IRQHandler
+                0x0800ef2c                OCTOSPI2_IRQHandler
+                0x0800ef2c                DFSDM1_FLT3_IRQHandler
+                0x0800ef2c                TIM23_IRQHandler
+                0x0800ef2c                USART6_IRQHandler
+                0x0800ef2c                TIM17_IRQHandler
+                0x0800ef2c                USART3_IRQHandler
+                0x0800ef2c                BDMA_Channel7_IRQHandler
+                0x0800ef2c                CRYP_IRQHandler
+                0x0800ef2c                LPTIM5_IRQHandler
+                0x0800ef2c                UART5_IRQHandler
+                0x0800ef2c                ADC3_IRQHandler
+                0x0800ef2c                DMA2_Stream0_IRQHandler
+                0x0800ef2c                TIM4_IRQHandler
+                0x0800ef2c                BDMA_Channel2_IRQHandler
+                0x0800ef2c                I2C1_EV_IRQHandler
+                0x0800ef2c                DMA1_Stream6_IRQHandler
+                0x0800ef2c                DMAMUX1_OVR_IRQHandler
+                0x0800ef2c                DMA1_Stream1_IRQHandler
+                0x0800ef2c                TIM16_IRQHandler
+                0x0800ef2c                UART4_IRQHandler
+                0x0800ef2c                BDMA_Channel5_IRQHandler
+                0x0800ef2c                TIM3_IRQHandler
+                0x0800ef2c                RCC_IRQHandler
+                0x0800ef2c                UART9_IRQHandler
+                0x0800ef2c                TIM8_BRK_TIM12_IRQHandler
+                0x0800ef2c                TIM1_TRG_COM_IRQHandler
+                0x0800ef2c                Default_Handler
+                0x0800ef2c                ECC_IRQHandler
+                0x0800ef2c                FMAC_IRQHandler
+                0x0800ef2c                CEC_IRQHandler
+                0x0800ef2c                EXTI15_10_IRQHandler
+                0x0800ef2c                BDMA_Channel0_IRQHandler
+                0x0800ef2c                ADC_IRQHandler
+                0x0800ef2c                I2C5_ER_IRQHandler
+                0x0800ef2c                OTFDEC1_IRQHandler
+                0x0800ef2c                DMA1_Stream7_IRQHandler
+                0x0800ef2c                SPI5_IRQHandler
+                0x0800ef2c                TIM7_IRQHandler
+                0x0800ef2c                FDCAN3_IT1_IRQHandler
+                0x0800ef2c                SDMMC1_IRQHandler
+                0x0800ef2c                TIM5_IRQHandler
+                0x0800ef2c                DMA2_Stream7_IRQHandler
+                0x0800ef2c                TIM15_IRQHandler
+                0x0800ef2c                PVD_AVD_IRQHandler
+                0x0800ef2c                I2C3_EV_IRQHandler
+                0x0800ef2c                EXTI9_5_IRQHandler
+                0x0800ef2c                RTC_WKUP_IRQHandler
+                0x0800ef2c                LTDC_IRQHandler
+                0x0800ef2c                ETH_WKUP_IRQHandler
+                0x0800ef2c                SPDIF_RX_IRQHandler
+                0x0800ef2c                SPI2_IRQHandler
+                0x0800ef2c                OTG_HS_EP1_IN_IRQHandler
+                0x0800ef2c                DMA1_Stream0_IRQHandler
+                0x0800ef2c                OTFDEC2_IRQHandler
+                0x0800ef2c                TIM24_IRQHandler
+                0x0800ef2c                CRS_IRQHandler
+                0x0800ef2c                EXTI4_IRQHandler
+                0x0800ef2c                FDCAN2_IT1_IRQHandler
+                0x0800ef2c                ETH_IRQHandler
+                0x0800ef2c                TIM1_UP_IRQHandler
+                0x0800ef2c                BDMA_Channel4_IRQHandler
+                0x0800ef2c                OTG_HS_EP1_OUT_IRQHandler
+                0x0800ef2c                WWDG_IRQHandler
+                0x0800ef2c                SPI6_IRQHandler
+                0x0800ef2c                MDIOS_IRQHandler
+                0x0800ef2c                I2C4_EV_IRQHandler
+                0x0800ef2c                FDCAN2_IT0_IRQHandler
+                0x0800ef2c                LPUART1_IRQHandler
+                0x0800ef2c                FDCAN1_IT0_IRQHandler
+                0x0800ef2c                TIM2_IRQHandler
+                0x0800ef2c                OTG_HS_IRQHandler
+                0x0800ef2c                DMA2D_IRQHandler
+                0x0800ef2c                TIM1_BRK_IRQHandler
+                0x0800ef2c                EXTI1_IRQHandler
+                0x0800ef2c                SDMMC2_IRQHandler
+                0x0800ef2c                BDMA_Channel3_IRQHandler
+                0x0800ef2c                DTS_IRQHandler
+                0x0800ef2c                UART7_IRQHandler
+                0x0800ef2c                MDIOS_WKUP_IRQHandler
+                0x0800ef2c                USART2_IRQHandler
+                0x0800ef2c                DFSDM1_FLT0_IRQHandler
+                0x0800ef2c                SAI4_IRQHandler
+                0x0800ef2c                I2C2_ER_IRQHandler
+                0x0800ef2c                DMA2_Stream1_IRQHandler
+                0x0800ef2c                FLASH_IRQHandler
+                0x0800ef2c                DMA2_Stream4_IRQHandler
+                0x0800ef2c                USART1_IRQHandler
+                0x0800ef2c                SPI3_IRQHandler
+                0x0800ef2c                WAKEUP_PIN_IRQHandler
+                0x0800ef2c                DMA1_Stream4_IRQHandler
+                0x0800ef2c                I2C1_ER_IRQHandler
+                0x0800ef2c                FMC_IRQHandler
+                0x0800ef2c                FDCAN_CAL_IRQHandler
+                0x0800ef2c                SWPMI1_IRQHandler
+                0x0800ef2c                COMP1_IRQHandler
+                0x0800ef2c                LPTIM1_IRQHandler
+                0x0800ef2c                DCMI_PSSI_IRQHandler
+                0x0800ef2c                I2C4_ER_IRQHandler
+                0x0800ef2c                DMA2_Stream6_IRQHandler
+                0x0800ef2c                SAI1_IRQHandler
+                0x0800ef2c                DMA1_Stream3_IRQHandler
+ .text.memcpy   0x0800ef2e       0x1c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                0x0800ef2e                memcpy
  *(.glue_7)
- .glue_7        0x0800ecfe        0x0 linker stubs
+ .glue_7        0x0800ef4a        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800ecfe        0x0 linker stubs
+ .glue_7t       0x0800ef4a        0x0 linker stubs
  *(.eh_frame)
- *fill*         0x0800ecfe        0x2 
- .eh_frame      0x0800ed00        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ *fill*         0x0800ef4a        0x2 
+ .eh_frame      0x0800ef4c        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
  *(.init)
- .init          0x0800ed00        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crti.o
-                0x0800ed00                _init
- .init          0x0800ed04        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtn.o
+ .init          0x0800ef4c        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crti.o
+                0x0800ef4c                _init
+ .init          0x0800ef50        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtn.o
  *(.fini)
- .fini          0x0800ed0c        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crti.o
-                0x0800ed0c                _fini
- .fini          0x0800ed10        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtn.o
-                0x0800ed18                        . = ALIGN (0x4)
-                0x0800ed18                        _etext = .
+ .fini          0x0800ef58        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crti.o
+                0x0800ef58                _fini
+ .fini          0x0800ef5c        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtn.o
+                0x0800ef64                        . = ALIGN (0x4)
+                0x0800ef64                        _etext = .
 
-.vfp11_veneer   0x0800ed18        0x0
- .vfp11_veneer  0x0800ed18        0x0 linker stubs
+.vfp11_veneer   0x0800ef64        0x0
+ .vfp11_veneer  0x0800ef64        0x0 linker stubs
 
-.v4_bx          0x0800ed18        0x0
- .v4_bx         0x0800ed18        0x0 linker stubs
+.v4_bx          0x0800ef64        0x0
+ .v4_bx         0x0800ef64        0x0 linker stubs
 
-.iplt           0x0800ed18        0x0
- .iplt          0x0800ed18        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+.iplt           0x0800ef64        0x0
+ .iplt          0x0800ef64        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
-.rodata         0x0800ed18       0x84
-                0x0800ed18                        . = ALIGN (0x4)
+.rodata         0x0800ef64       0x84
+                0x0800ef64                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0800ed18       0x4c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .rodata        0x0800ef64       0x4c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
  *(.rodata*)
  .rodata.UARTPrescTable
-                0x0800ed64       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
-                0x0800ed64                UARTPrescTable
+                0x0800efb0       0x18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x0800efb0                UARTPrescTable
  .rodata.numerator.1
-                0x0800ed7c        0x8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800efc8        0x8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .rodata.denominator.0
-                0x0800ed84        0x8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x0800efd0        0x8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .rodata.D1CorePrescTable
-                0x0800ed8c       0x10 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
-                0x0800ed8c                D1CorePrescTable
-                0x0800ed9c                        . = ALIGN (0x4)
+                0x0800efd8       0x10 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0800efd8                D1CorePrescTable
+                0x0800efe8                        . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0800ed9c        0x8
-                0x0800ed9c                        __exidx_start = .
+.ARM            0x0800efe8        0x8
+                0x0800efe8                        __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x0800ed9c        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
-                0x0800eda4                        __exidx_end = .
+ .ARM.exidx     0x0800efe8        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
+                0x0800eff0                        __exidx_end = .
 
-.rel.dyn        0x0800eda4        0x0
- .rel.iplt      0x0800eda4        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+.rel.dyn        0x0800eff0        0x0
+ .rel.iplt      0x0800eff0        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
-.preinit_array  0x0800eda4        0x0
-                0x0800eda4                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0800eff0        0x0
+                0x0800eff0                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0800eda4                        PROVIDE (__preinit_array_end = .)
+                0x0800eff0                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x0800eda4        0x4
-                0x0800eda4                        PROVIDE (__init_array_start = .)
+.init_array     0x0800eff0        0x4
+                0x0800eff0                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0800eda4        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
-                0x0800eda8                        PROVIDE (__init_array_end = .)
+ .init_array    0x0800eff0        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x0800eff4                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x0800eda8        0x4
+.fini_array     0x0800eff4        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0800eda8        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .fini_array    0x0800eff4        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x0800edac                        _sidata = LOADADDR (.data)
+                0x0800eff8                        _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x10 load address 0x0800edac
+.data           0x20000000       0x10 load address 0x0800eff8
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -10555,23 +10558,23 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
                 0x20000010                        . = ALIGN (0x4)
                 0x20000010                        _edata = .
 
-.igot.plt       0x20000010        0x0 load address 0x0800edbc
+.igot.plt       0x20000010        0x0 load address 0x0800f008
  .igot.plt      0x20000010        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard/crtbegin.o
 
 .RxDecripSection
-                0x20000010       0x60 load address 0x0800edbc
+                0x20000010       0x60 load address 0x0800f008
  .RxDecripSection
                 0x20000010       0x60 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
                 0x20000010                DMARxDscrTab
 
 .TxDecripSection
-                0x20000070       0x60 load address 0x0800ee1c
+                0x20000070       0x60 load address 0x0800f068
  .TxDecripSection
                 0x20000070       0x60 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
                 0x20000070                DMATxDscrTab
                 0x200000d0                        . = ALIGN (0x4)
 
-.bss            0x200000d0      0x944 load address 0x0800ee7c
+.bss            0x200000d0      0x970 load address 0x0800f0c8
                 0x200000d0                        _sbss = .
                 0x200000d0                        __bss_start__ = _sbss
  *(.bss)
@@ -10621,35 +10624,37 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
                 0x200008d0                huart1
  .bss.huart3    0x20000964       0x94 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
                 0x20000964                huart3
+ .bss.rndValues
+                0x200009f8       0x28 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .bss.rndCount  0x20000a20        0x4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .bss.MACAddr.0
-                0x200009f8        0x6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- *fill*         0x200009fe        0x2 
+                0x20000a24        0x6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ *fill*         0x20000a2a        0x2 
  .bss.HAL_RCC_ADC12_CLK_ENABLED
-                0x20000a00        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x20000a2c        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .bss.HAL_RCC_FDCAN_CLK_ENABLED
-                0x20000a04        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x20000a30        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .bss.HAL_RCC_OCTOSPIM_CLK_ENABLED
-                0x20000a08        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x20000a34        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .bss.SAI1_client
-                0x20000a0c        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .bss.uwTick    0x20000a10        0x4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
-                0x20000a10                uwTick
+                0x20000a38        0x4 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .bss.uwTick    0x20000a3c        0x4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x20000a3c                uwTick
  *(COMMON)
-                0x20000a14                        . = ALIGN (0x4)
-                0x20000a14                        _ebss = .
-                0x20000a14                        __bss_end__ = _ebss
+                0x20000a40                        . = ALIGN (0x4)
+                0x20000a40                        _ebss = .
+                0x20000a40                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000a14     0x6004 load address 0x0800ee7c
-                0x20000a18                        . = ALIGN (0x8)
- *fill*         0x20000a14        0x4 
+                0x20000a40     0x6000 load address 0x0800f0c8
+                0x20000a40                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x20000a18                        PROVIDE (_end = .)
-                0x20002a18                        . = (. + _Min_Heap_Size)
- *fill*         0x20000a18     0x2000 
-                0x20006a18                        . = (. + _Min_Stack_Size)
- *fill*         0x20002a18     0x4000 
-                0x20006a18                        . = ALIGN (0x8)
+                0x20000a40                        PROVIDE (_end = .)
+                0x20002a40                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000a40     0x2000 
+                0x20006a40                        . = (. + _Min_Stack_Size)
+ *fill*         0x20002a40     0x4000 
+                0x20006a40                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -10773,36 +10778,36 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
  .debug_frame   0x0000a88c       0x34 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+dp/hard\libgcc.a(_udivmoddi4.o)
  .debug_frame   0x0000a8c0       0x28 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
-.debug_info     0x00000000    0x2fecd
- .debug_info    0x00000000     0x566a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_info    0x0000566a      0x128 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_info    0x00005792     0x515b CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_info    0x0000a8ed     0x2463 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_info    0x0000cd50     0x2436 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_info    0x0000f186      0xd73 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_info    0x0000fef9     0x11fc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_info    0x000110f5      0xc5c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_info    0x00011d51      0xdc4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_info    0x00012b15     0x10b2 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_info    0x00013bc7     0x16aa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_info    0x00015271     0x22a1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_info    0x00017512      0xd95 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_info    0x000182a7      0xbb8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
- .debug_info    0x00018e5f     0x2a22 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
- .debug_info    0x0001b881     0x2baf CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_info    0x0001e430     0x1038 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
- .debug_info    0x0001f468     0x19b4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
- .debug_info    0x00020e1c      0x4e0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .debug_info    0x000212fc     0x13c4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
- .debug_info    0x000226c0     0x11d3 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
- .debug_info    0x00023893     0x1a7a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
- .debug_info    0x0002530d     0x2bae CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
- .debug_info    0x00027ebb     0x18c1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
- .debug_info    0x0002977c     0x4b13 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_info    0x0002e28f      0xfbf CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_info    0x0002f24e      0xb2e CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_info    0x0002fd7c       0x30 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
- .debug_info    0x0002fdac      0x121 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+.debug_info     0x00000000    0x2ff0b
+ .debug_info    0x00000000     0x56a8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_info    0x000056a8      0x128 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_info    0x000057d0     0x515b CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_info    0x0000a92b     0x2463 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_info    0x0000cd8e     0x2436 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_info    0x0000f1c4      0xd73 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_info    0x0000ff37     0x11fc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_info    0x00011133      0xc5c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_info    0x00011d8f      0xdc4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_info    0x00012b53     0x10b2 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_info    0x00013c05     0x16aa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_info    0x000152af     0x22a1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_info    0x00017550      0xd95 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_info    0x000182e5      0xbb8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+ .debug_info    0x00018e9d     0x2a22 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+ .debug_info    0x0001b8bf     0x2baf CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_info    0x0001e46e     0x1038 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+ .debug_info    0x0001f4a6     0x19b4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+ .debug_info    0x00020e5a      0x4e0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+ .debug_info    0x0002133a     0x13c4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+ .debug_info    0x000226fe     0x11d3 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+ .debug_info    0x000238d1     0x1a7a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+ .debug_info    0x0002534b     0x2bae CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_info    0x00027ef9     0x18c1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_info    0x000297ba     0x4b13 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_info    0x0002e2cd      0xfbf CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_info    0x0002f28c      0xb2e CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_info    0x0002fdba       0x30 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+ .debug_info    0x0002fdea      0x121 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
 .debug_abbrev   0x00000000     0x4326
  .debug_abbrev  0x00000000      0x311 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
@@ -10896,268 +10901,268 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/
                 0x000025d0       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
 .debug_rnglists
-                0x00000000     0x1de2
+                0x00000000     0x1de3
  .debug_rnglists
-                0x00000000       0xb5 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                0x00000000       0xb6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x000000b5       0x43 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+                0x000000b6       0x43 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
  .debug_rnglists
-                0x000000f8       0xba CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x000000f9       0xba CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
  .debug_rnglists
-                0x000001b2      0x1d5 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+                0x000001b3      0x1d5 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
  .debug_rnglists
-                0x00000387      0x182 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+                0x00000388      0x182 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
  .debug_rnglists
-                0x00000509       0x68 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x0000050a       0x68 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
  .debug_rnglists
-                0x00000571       0xc0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+                0x00000572       0xc0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
  .debug_rnglists
-                0x00000631       0x3f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x00000632       0x3f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
  .debug_rnglists
-                0x00000670       0xf6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x00000671       0xf6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
  .debug_rnglists
-                0x00000766       0xe0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x00000767       0xe0 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
  .debug_rnglists
-                0x00000846      0x155 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x00000847      0x155 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
  .debug_rnglists
-                0x0000099b      0x22a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+                0x0000099c      0x22a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
  .debug_rnglists
-                0x00000bc5       0x35 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+                0x00000bc6       0x35 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
  .debug_rnglists
-                0x00000bfa       0x90 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+                0x00000bfb       0x90 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
  .debug_rnglists
-                0x00000c8a      0x176 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+                0x00000c8b      0x176 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
  .debug_rnglists
-                0x00000e00      0x28b CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+                0x00000e01      0x28b CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
  .debug_rnglists
-                0x0000108b      0x10a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+                0x0000108c      0x10a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
  .debug_rnglists
-                0x00001195      0x122 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+                0x00001196      0x122 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
  .debug_rnglists
-                0x000012b7       0x60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+                0x000012b8       0x60 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
  .debug_rnglists
-                0x00001317      0x136 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+                0x00001318      0x136 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
  .debug_rnglists
-                0x0000144d      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+                0x0000144e      0x138 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
  .debug_rnglists
-                0x00001585      0x128 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+                0x00001586      0x128 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
  .debug_rnglists
-                0x000016ad      0x328 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+                0x000016ae      0x328 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
  .debug_rnglists
-                0x000019d5      0x14d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+                0x000019d6      0x14d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
  .debug_rnglists
-                0x00001b22      0x1fa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+                0x00001b23      0x1fa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
  .debug_rnglists
-                0x00001d1c       0x7f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+                0x00001d1d       0x7f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
  .debug_rnglists
-                0x00001d9b       0x1b CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+                0x00001d9c       0x1b CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
  .debug_rnglists
-                0x00001db6       0x19 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+                0x00001db7       0x19 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
  .debug_rnglists
-                0x00001dcf       0x13 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                0x00001dd0       0x13 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
-.debug_macro    0x00000000    0x3c27b
- .debug_macro   0x00000000      0x3b0 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000003b0      0xacc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00000e7c      0x26e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000010ea       0x2e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00001118       0x42 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0000115a       0x22 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0000117c       0x8e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0000120a       0x51 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0000125b      0x103 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0000135e       0x6a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000013c8      0x1df CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000015a7       0x1c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000015c3       0x22 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000015e5       0xfb CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000016e0     0x1305 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000029e5      0x11f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00002b04       0x27 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00002b2b    0x21cf4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002481f       0x6d CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002488c     0x3d64 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000285f0      0x189 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028779       0x74 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000287ed       0x29 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028816       0x3c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028852       0x34 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028886       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002889c       0x43 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000288df       0x34 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028913       0x10 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028923       0x58 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002897b      0x1de CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028b59      0x369 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00028ec2      0x19b CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002905d       0x5d CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000290ba     0x257a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002b634     0x1079 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002c6ad      0x154 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002c801      0x114 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002c915      0x3fc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002cd11       0xac CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002cdbd      0x788 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d545      0x228 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d76d       0x66 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d7d3      0x3a6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002db79      0xa80 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002e5f9      0x129 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002e722      0x3f9 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002eb1b      0x275 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002ed90     0x1178 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0002ff08      0x7c8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000306d0      0x39f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00030a6f      0xe42 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000318b1      0x184 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00031a35       0xd9 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00031b0e      0x3ca CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00031ed8      0x45c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00032334       0x3c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00032370       0x4a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000323ba      0x22c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000325e6       0x67 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0003264d       0xa5 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000326f2      0x198 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0003288a       0xd6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00032960      0x520 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00032e80      0x1c4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00033044      0x25b CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0003329f       0x35 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000332d4       0xa4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00033378       0x99 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00033411       0x19 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x0003342a      0x3ad CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000337d7       0x10 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000337e7       0xe4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000338cb      0x830 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000340fb       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00034111      0x1ce CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000342df      0xb24 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00034e03      0x29f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000350a2      0x693 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00035735       0xa6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000357db      0x5e6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00035dc1      0x6c2 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00036483       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x00036499       0x35 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000364ce       0x20 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_macro   0x000364ee      0x38a CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_macro   0x00036878      0x380 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_macro   0x00036bf8      0x39c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_macro   0x00036f94      0x37d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_macro   0x00037311      0x395 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_macro   0x000376a6      0x38f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_macro   0x00037a35      0x378 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_macro   0x00037dad      0x3aa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_macro   0x00038157      0x371 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_macro   0x000384c8      0x39b CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_macro   0x00038863      0x43d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_macro   0x00038ca0      0x371 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_macro   0x00039011      0x379 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
- .debug_macro   0x0003938a      0x405 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
- .debug_macro   0x0003978f      0x436 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_macro   0x00039bc5      0x379 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
- .debug_macro   0x00039f3e      0x3b8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
- .debug_macro   0x0003a2f6      0x384 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .debug_macro   0x0003a67a      0x38e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
- .debug_macro   0x0003aa08      0x372 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
- .debug_macro   0x0003ad7a      0x38e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
- .debug_macro   0x0003b108      0x372 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
- .debug_macro   0x0003b47a      0x377 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
- .debug_macro   0x0003b7f1      0x39c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_macro   0x0003bb8d      0x37d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_macro   0x0003bf0a      0x371 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+.debug_macro    0x00000000    0x3c282
+ .debug_macro   0x00000000      0x3b6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000003b6      0xacc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000e82      0x26e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000010f0       0x2e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000111e       0x42 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001160       0x22 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001182       0x8e CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001210       0x51 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001261      0x103 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001364       0x6a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000013ce      0x1df CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000015ad       0x1c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000015c9       0x22 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000015eb       0xfb CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000016e6     0x1305 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000029eb      0x11f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00002b0a       0x27 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00002b31    0x21cf4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00024825       0x6d CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00024892     0x3d64 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000285f6      0x189 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002877f       0x74 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000287f3       0x29 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002881c       0x3c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028858       0x34 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002888c       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000288a2       0x43 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000288e5       0x34 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028919       0x10 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028929       0x58 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028981      0x1de CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028b5f      0x369 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00028ec8      0x19b CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00029063       0x5d CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000290c0     0x257a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b63a     0x1079 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c6b3      0x154 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c807      0x114 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c91b      0x3fc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002cd17       0xac CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002cdc3      0x788 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002d54b      0x228 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002d773       0x66 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002d7d9      0x3a6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002db7f      0xa80 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002e5ff      0x129 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002e728      0x3f9 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002eb21      0x275 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002ed96     0x1178 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002ff0e      0x7c8 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000306d6      0x39f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00030a75      0xe42 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000318b7      0x184 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031a3b       0xd9 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031b14      0x3ca CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031ede      0x45c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003233a       0x3c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032376       0x4a CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000323c0      0x22c CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000325ec       0x67 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032653       0xa5 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000326f8      0x198 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032890       0xd6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032966      0x520 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032e86      0x1c4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003304a      0x25b CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000332a5       0x35 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000332da       0xa4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003337e       0x99 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00033417       0x19 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00033430      0x3ad CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000337dd       0x10 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000337ed       0xe4 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000338d1      0x830 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00034101       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00034117      0x1ce CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000342e5      0xb24 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00034e09      0x29f CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000350a8      0x693 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003573b       0xa6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000357e1      0x5e6 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x00035dc7      0x6c3 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003648a       0x16 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000364a0       0x35 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000364d5       0x20 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_macro   0x000364f5      0x38a CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_macro   0x0003687f      0x380 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_macro   0x00036bff      0x39c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_macro   0x00036f9b      0x37d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_macro   0x00037318      0x395 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_macro   0x000376ad      0x38f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_macro   0x00037a3c      0x378 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_macro   0x00037db4      0x3aa CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_macro   0x0003815e      0x371 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_macro   0x000384cf      0x39b CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_macro   0x0003886a      0x43d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_macro   0x00038ca7      0x371 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_macro   0x00039018      0x379 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+ .debug_macro   0x00039391      0x405 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+ .debug_macro   0x00039796      0x436 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_macro   0x00039bcc      0x379 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+ .debug_macro   0x00039f45      0x3b8 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+ .debug_macro   0x0003a2fd      0x384 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+ .debug_macro   0x0003a681      0x38e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+ .debug_macro   0x0003aa0f      0x372 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+ .debug_macro   0x0003ad81      0x38e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+ .debug_macro   0x0003b10f      0x372 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_macro   0x0003b481      0x377 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_macro   0x0003b7f8      0x39c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_macro   0x0003bb94      0x37d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_macro   0x0003bf11      0x371 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
 
-.debug_line     0x00000000    0x2db79
- .debug_line    0x00000000     0x1306 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
- .debug_line    0x00001306      0xa2a CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_line    0x00001d30     0x1183 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_line    0x00002eb3     0x2864 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_line    0x00005717     0x233a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_line    0x00007a51     0x143f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_line    0x00008e90     0x1d0e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_line    0x0000ab9e      0xddc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_line    0x0000b97a      0xfc1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_line    0x0000c93b      0xf47 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_line    0x0000d882      0xfa9 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_line    0x0000e82b     0x3f84 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_line    0x000127af      0xb85 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_line    0x00013334      0xe68 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
- .debug_line    0x0001419c     0x1cb1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
- .debug_line    0x00015e4d     0x29d6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_line    0x00018823     0x1a0c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
- .debug_line    0x0001a22f     0x1a10 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
- .debug_line    0x0001bc3f      0xca6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
- .debug_line    0x0001c8e5     0x1f1e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
- .debug_line    0x0001e803     0x1255 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
- .debug_line    0x0001fa58     0x228c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
- .debug_line    0x00021ce4     0x413a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
- .debug_line    0x00025e1e     0x200c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
- .debug_line    0x00027e2a     0x4005 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_line    0x0002be2f      0xfb6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_line    0x0002cde5      0xb18 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_line    0x0002d8fd       0x7a CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
- .debug_line    0x0002d977      0x202 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+.debug_line     0x00000000    0x2dbbf
+ .debug_line    0x00000000     0x1310 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+ .debug_line    0x00001310      0xa2a CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_line    0x00001d3a     0x11b7 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_line    0x00002ef1     0x2864 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_line    0x00005755     0x233a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_line    0x00007a8f     0x143f CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x00008ece     0x1d0e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000abdc      0xddc CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x0000b9b8      0xfc1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000c979      0xf47 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x0000d8c0      0xfa9 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x0000e869     0x3f84 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_line    0x000127ed      0xb85 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_line    0x00013372      0xe68 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+ .debug_line    0x000141da     0x1cb1 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+ .debug_line    0x00015e8b     0x29d6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_line    0x00018861     0x1a0c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+ .debug_line    0x0001a26d     0x1a10 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+ .debug_line    0x0001bc7d      0xca6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+ .debug_line    0x0001c923     0x1f1e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+ .debug_line    0x0001e841     0x1255 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+ .debug_line    0x0001fa96     0x228c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+ .debug_line    0x00021d22     0x413a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_line    0x00025e5c     0x200c CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_line    0x00027e68     0x4005 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_line    0x0002be6d      0xfb6 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_line    0x0002ce23      0xb20 CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_line    0x0002d943       0x7a CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+ .debug_line    0x0002d9bd      0x202 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
-.debug_str      0x00000000   0x18a74e
- .debug_str     0x00000000   0x17e9b5 CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
-                             0x17f4e3 (size before relaxing)
- .debug_str     0x0017e9b5       0xe8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
+.debug_str      0x00000000   0x18a778
+ .debug_str     0x00000000   0x17e9fc CMakeFiles/TestNRG.dir/Core/Src/main.c.obj
+                             0x17f52a (size before relaxing)
+ .debug_str     0x0017e9fc       0xe8 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_it.c.obj
                              0x17bb0c (size before relaxing)
- .debug_str     0x0017ea9d      0x2b3 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_str     0x0017eae4      0x2b3 CMakeFiles/TestNRG.dir/Core/Src/stm32h7xx_hal_msp.c.obj
                              0x17eb62 (size before relaxing)
- .debug_str     0x0017ed50      0xd54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_str     0x0017ed97      0xd54 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
                              0x17b6ff (size before relaxing)
- .debug_str     0x0017faa4      0x7f7 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_str     0x0017faeb      0x7f7 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
                              0x17b61f (size before relaxing)
- .debug_str     0x0018029b      0x3a3 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_str     0x001802e2      0x3a3 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
                              0x17aa3c (size before relaxing)
- .debug_str     0x0018063e      0x705 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_str     0x00180685      0x705 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
                              0x17af54 (size before relaxing)
- .debug_str     0x00180d43      0x178 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_str     0x00180d8a      0x178 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
                              0x17a6b9 (size before relaxing)
- .debug_str     0x00180ebb      0x6f4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_str     0x00180f02      0x6f4 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
                              0x17aac1 (size before relaxing)
- .debug_str     0x001815af      0xb6a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_str     0x001815f6      0xb6a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
                              0x17b03b (size before relaxing)
- .debug_str     0x00182119      0x781 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_str     0x00182160      0x781 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
                              0x17b721 (size before relaxing)
- .debug_str     0x0018289a      0xe46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_str     0x001828e1      0xe46 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
                              0x17b74f (size before relaxing)
- .debug_str     0x001836e0       0xd7 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_str     0x00183727       0xd7 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
                              0x17aafe (size before relaxing)
- .debug_str     0x001837b7      0x23d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
+ .debug_str     0x001837fe      0x23d CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dac.c.obj
                              0x17a9aa (size before relaxing)
- .debug_str     0x001839f4     0x102a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
+ .debug_str     0x00183a3b     0x102a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c.obj
                              0x17bf87 (size before relaxing)
- .debug_str     0x00184a1e     0x1bb9 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_str     0x00184a65     0x1bb9 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
                              0x17c3ee (size before relaxing)
- .debug_str     0x001865d7      0x4ab CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
+ .debug_str     0x0018661e      0x4ab CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ltdc.c.obj
                              0x17a9cd (size before relaxing)
- .debug_str     0x00186a82      0x848 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
+ .debug_str     0x00186ac9      0x848 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_ospi.c.obj
                              0x17b10e (size before relaxing)
- .debug_str     0x001872ca      0x197 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
+ .debug_str     0x00187311      0x17a CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rng.c.obj
                              0x17a4a3 (size before relaxing)
- .debug_str     0x00187461      0x479 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
+ .debug_str     0x0018748b      0x479 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sai.c.obj
                              0x17ad51 (size before relaxing)
- .debug_str     0x001878da      0x525 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
+ .debug_str     0x00187904      0x525 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_sdmmc.c.obj
                              0x17a850 (size before relaxing)
- .debug_str     0x00187dff      0x75e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
+ .debug_str     0x00187e29      0x75e CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd.c.obj
                              0x17b096 (size before relaxing)
- .debug_str     0x0018855d      0xe18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_str     0x00188587      0xe18 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
                              0x17b83a (size before relaxing)
- .debug_str     0x00189375      0x522 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_str     0x0018939f      0x522 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
                              0x17b1e7 (size before relaxing)
- .debug_str     0x00189897      0x9f5 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_str     0x001898c1      0x9f5 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
                              0x17b5dc (size before relaxing)
- .debug_str     0x0018a28c      0x279 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_str     0x0018a2b6      0x279 CMakeFiles/TestNRG.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
                              0x17ab9c (size before relaxing)
- .debug_str     0x0018a505       0x5f CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_str     0x0018a52f       0x5f CMakeFiles/TestNRG.dir/Core/Src/system_stm32h7xx.c.obj
                              0x17a66e (size before relaxing)
- .debug_str     0x0018a564       0x54 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
+ .debug_str     0x0018a58e       0x54 CMakeFiles/TestNRG.dir/startup_stm32h735xx.s.obj
                                  0x82 (size before relaxing)
- .debug_str     0x0018a5b8      0x196 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_str     0x0018a5e2      0x196 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
                                 0x232 (size before relaxing)
 
 .comment        0x00000000       0x43
